@@ -1,0 +1,36 @@
+[03-May-2025 08:14:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gbritez_stock.tema' doesn't exist in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php:45
+Stack trace:
+#0 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php(45): mysqli->query('SELECT * FROM `...')
+#1 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/POO.php(37): Conexion->SQL('SELECT * FROM `...')
+#2 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/Qualtiva.php(88): require_once('/home/gbritez/w...')
+#3 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/configuracion.php(57): require_once('/home/gbritez/w...')
+#4 /home/gbritez/web/stock.gregorbritez.com/public_html/instalar/successful.php(2): require_once('/home/gbritez/w...')
+#5 {main}
+  thrown in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php on line 45
+[03-May-2025 08:38:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gbritez_stock.tema' doesn't exist in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php:45
+Stack trace:
+#0 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php(45): mysqli->query('SELECT * FROM `...')
+#1 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/POO.php(37): Conexion->SQL('SELECT * FROM `...')
+#2 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/Qualtiva.php(88): require_once('/home/gbritez/w...')
+#3 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/configuracion.php(63): require_once('/home/gbritez/w...')
+#4 /home/gbritez/web/stock.gregorbritez.com/public_html/index.php(2): include('/home/gbritez/w...')
+#5 {main}
+  thrown in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php on line 45
+[03-May-2025 08:38:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gbritez_stock.tema' doesn't exist in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php:45
+Stack trace:
+#0 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php(45): mysqli->query('SELECT * FROM `...')
+#1 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/POO.php(37): Conexion->SQL('SELECT * FROM `...')
+#2 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/Qualtiva.php(88): require_once('/home/gbritez/w...')
+#3 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/configuracion.php(63): require_once('/home/gbritez/w...')
+#4 /home/gbritez/web/stock.gregorbritez.com/public_html/index.php(2): include('/home/gbritez/w...')
+#5 {main}
+  thrown in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php on line 45
+[03-May-2025 08:38:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gbritez_stock.tema' doesn't exist in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php:45
+Stack trace:
+#0 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php(45): mysqli->query('SELECT * FROM `...')
+#1 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/POO.php(37): Conexion->SQL('SELECT * FROM `...')
+#2 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/Qualtiva.php(88): require_once('/home/gbritez/w...')
+#3 /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/configuracion.php(63): require_once('/home/gbritez/w...')
+#4 /home/gbritez/web/stock.gregorbritez.com/public_html/index.php(2): include('/home/gbritez/w...')
+#5 {main}
+  thrown in /home/gbritez/web/stock.gregorbritez.com/public_html/sistema/clase/conexion.clase.php on line 45
